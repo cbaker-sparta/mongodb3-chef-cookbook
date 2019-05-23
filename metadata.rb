@@ -20,4 +20,4 @@ chef_version '>= 13.0'
 # source_url 'https://github.com/<insert_org_here>/mongodb'
 
 depends 'mongodb3', '~> 5.3.0'
-depends 'apt'
+depends 'yum'
